@@ -1,6 +1,6 @@
 cask "kubehack" do
-  version "1.0.5"
-  sha256 "abeadabb8ac6e5a56d514295d7477f4986c8b77abac72c7a5224279c92352cef"
+  version "1.0.6"
+  sha256 "3dd17a7477e06a04b94a97286d861c36a993ce2e08307663454c7fc4bd1318c3"
 
   url "https://github.com/Thadchet/kubehack/releases/download/v#{version}/kubehack-macos.zip"
   name "Kubehack"
